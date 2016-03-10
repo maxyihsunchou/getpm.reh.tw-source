@@ -1,2 +1,3 @@
-# getpm.reh.tw-source
-wget Download PocketMine-MP Server
+# wget Download PocketMine-MP Server
+Unofficial wget PocketMine-MP download servers (非官方 wget PocketMine-MP 下載伺服器)
+PHP did not upload (PHP沒上傳)
