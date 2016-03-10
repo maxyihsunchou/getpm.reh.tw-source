@@ -6,7 +6,7 @@ echo "（1）English en"
 echo "（2）繁體中文 zh-TW"
 echo "（3）简体中文 zh-CN"
 echo "=========================================="
-echo -n "Enter："
+echo -n "Input："
 
 read character
 case $character in
