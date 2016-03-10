@@ -14,7 +14,7 @@ case $character in
         ;;
     2 ) wget -q -O - http://getpm.reh.tw/lang/zh-TW/ | bash
         ;;
-	3 ) wget -q -O - http://getpm.reh.tw/lang/zh-CN/ | bash
+    3 ) wget -q -O - http://getpm.reh.tw/lang/zh-CN/ | bash
         ;;
     * ) echo "Please enter the correct number"
         echo "1~3"
